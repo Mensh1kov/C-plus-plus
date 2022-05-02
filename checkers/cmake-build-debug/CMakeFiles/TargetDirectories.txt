@@ -1,0 +1,3 @@
+D:/CODE/C++/Practice/2_sem/checkers/cmake-build-debug/CMakeFiles/checkers.dir
+D:/CODE/C++/Practice/2_sem/checkers/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CODE/C++/Practice/2_sem/checkers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
