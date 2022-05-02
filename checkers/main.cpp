@@ -2,6 +2,7 @@
 #include "game.h"
 
 int main() {
+    std::cout << "test commit" << std::endl;
     Game NewGame;
     NewGame.UpdateField();
     while (true) {
